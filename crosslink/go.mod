@@ -16,7 +16,7 @@ require (
 	go.opentelemetry.io/build-tools v0.0.0-20220321164008-b8e03aff061a
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.7.0 // indirect
-	golang.org/x/mod v0.5.1
+	golang.org/x/mod v0.6.0
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 )
 
