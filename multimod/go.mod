@@ -1,6 +1,7 @@
 module go.opentelemetry.io/build-tools/multimod
 
 go 1.22.0
+toolchain go1.23.7
 
 require (
 	github.com/go-git/go-git/v5 v5.13.2
@@ -9,7 +10,7 @@ require (
 	github.com/stretchr/testify v1.10.0
 	go.opentelemetry.io/build-tools v0.18.0
 	go.uber.org/multierr v1.11.0
-	golang.org/x/mod v0.23.0
+	golang.org/x/mod v0.24.0
 )
 
 require (
