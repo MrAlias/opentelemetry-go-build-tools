@@ -1,10 +1,11 @@
 module go.opentelemetry.io/build-tools
 
 go 1.22.0
+toolchain go1.23.7
 
 require (
 	github.com/stretchr/testify v1.10.0
-	golang.org/x/mod v0.23.0
+	golang.org/x/mod v0.24.0
 	golang.org/x/sys v0.30.0
 )
 
